@@ -1,4 +1,4 @@
-![Academic in Heaven Logo](images/aih_logo.svg)
+![Academic in Heaven Logo](images/aih_logo2.svg)
 
 # Academic in Heaven
 
